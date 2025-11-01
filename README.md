@@ -45,7 +45,6 @@ If you're looking for “I’ll figure it out and make it work,” that’s me.
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![API Design](https://img.shields.io/badge/API%20Design-%23007EC6.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -55,12 +54,8 @@ If you're looking for “I’ll figure it out and make it work,” that’s me.
 **Cloud / Delivery**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Also living in**  
-- Geospatial data and city-scale context  
-- System design / architecture  
-- Product thinking, not just “ticket thinking”
+**Other:** Geospatial data · System design · Product thinking
 
 ---
 
