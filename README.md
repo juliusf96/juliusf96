@@ -2,7 +2,7 @@
 
 I build things that solve real problems in the physical world and I use code as the fastest way to make those ideas real.
 
-I'm not obsessed with "writing code for code’s sake."
+I'm not obsessed with "writing code for code’s sake." 
 I'm obsessed with getting difficult stuff to actually work.
 
 ---
@@ -32,17 +32,36 @@ If you're looking for “I’ll figure it out and make it work,” that’s me.
 ---
 
 ### 🛠 Stack I actually use
-**Languages:** JavaScript · TypeScript · C# · SQL · Python  
-**Backend / Data:** .NET · PostgreSQL · API design · Docker  
-**Frontend:** React · Next.js · Tailwind  
-**Cloud / Delivery:** AWS · CI/CD  
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Backend / Data**  
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
+
+**Cloud / Delivery**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+
 **Other:** Geospatial data · System design · Product thinking
 
 ---
 
 ### 🌐 Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-flem)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliusflem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julius-flem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliusflem)
 
 ---
 
