@@ -2,7 +2,7 @@
 
 I build things that solve real problems in the physical world and I use code as the fastest way to make those ideas real.
 
-I'm not obsessed with "writing code for code’s sake."  
+I'm not obsessed with "writing code for code’s sake." 
 I'm obsessed with getting difficult stuff to actually work.
 
 ---
