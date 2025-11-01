@@ -24,7 +24,7 @@ Goal: give people insider context without needing to be an insider.
 ### 🧠 How I work
 - I like hard, messy, real-world problems.
 - I move between product, data, backend, and frontend instead of staying in one lane.
-- I care more about clarity and outcomes than hype.
+- I care more about outcomes than hype.
 - I will absolutely duct-tape five boring tools together if it means we ship something useful today.
 
 If you're looking for “I’ll figure it out and make it work,” that’s me.
