@@ -16,7 +16,7 @@ Goal: make circular economy actually practical, not just a slide in a report.
 
 **🏙 Street-level city intelligence**  
 Exploring geospatial tools that turn urban data into decisions.  
-Signals like rent vs price behavior, risk, location context, and infrastructure — shown in a way normal humans can use.  
+Signals like rent vs price behavior, risk, location context, and infrastructure, all shown in a way normal humans can use.  
 Goal: give people insider context without needing to be an insider.
 
 ---
